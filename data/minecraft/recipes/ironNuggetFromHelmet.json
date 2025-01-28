@@ -1,0 +1,9 @@
+{
+	"type": "smelting",
+	"ingredient": "minecraft:iron_helmet",
+	"result": {
+		"id": "minecraft:iron_nugget"
+	},
+	"experience": 1,
+	"cookingtime": 50
+}
