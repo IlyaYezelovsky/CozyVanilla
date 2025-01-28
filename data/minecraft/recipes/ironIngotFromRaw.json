@@ -1,0 +1,9 @@
+{
+	"type": "smelting",
+	"ingredient": "minecraft:raw_iron",
+	"result": {
+		"id": "minecraft:iron_ingot"
+	},
+	"experience": 7,
+	"cookingtime": 50
+}

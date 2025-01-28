@@ -1,0 +1,9 @@
+{
+	"type": "smelting",
+	"ingredient": "minecraft:deepslate_lapis_ore",
+	"result": {
+		"id": "minecraft:lapis_lazuli"
+	},
+	"experience": 2,
+	"cookingtime": 50
+}

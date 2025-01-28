@@ -1,0 +1,9 @@
+{
+	"type": "smelting",
+	"ingredient": "minecraft:deep_coal_ore",
+	"result": {
+		"id": "minecraft:coal"
+	},
+	"experience": 1,
+	"cookingtime": 50
+}

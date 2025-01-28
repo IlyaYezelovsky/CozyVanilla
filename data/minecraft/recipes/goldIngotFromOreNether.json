@@ -1,0 +1,9 @@
+{
+	"type": "smelting",
+	"ingredient": "minecraft:nether_gold_ore",
+	"result": {
+		"id": "minecraft:gold_ore"
+	},
+	"experience": 10,
+	"cookingtime": 50
+}

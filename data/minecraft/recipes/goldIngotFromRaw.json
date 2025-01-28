@@ -1,0 +1,9 @@
+{
+	"type": "smelting",
+	"ingredient": "minecraft:raw_gold",
+	"result": {
+		"id": "minecraft:gold_ingot"
+	},
+	"experience": 10,
+	"cookingtime": 50
+}

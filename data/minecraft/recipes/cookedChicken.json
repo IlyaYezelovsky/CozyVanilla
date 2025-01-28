@@ -1,0 +1,9 @@
+{
+	"type": "smelting",
+	"ingredient": "minecraft:chicken",
+	"result": {
+		"id": "minecraft:cooked_chicken"
+	},
+	"experience": 3.5,
+	"cookingtime": 50
+}

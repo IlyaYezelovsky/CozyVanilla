@@ -1,0 +1,9 @@
+{
+	"type": "smelting",
+	"ingredient": "minecraft:rabbit",
+	"result": {
+		"id": "minecraft:cooked_rabbit"
+	},
+	"experience": 3.5,
+	"cookingtime": 50
+}
