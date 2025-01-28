@@ -1,0 +1,9 @@
+{
+	"type": "smelting",
+	"ingredient": "minecraft:cobbled_deepslate",
+	"result": {
+		"id": "minecraft:deepslate"
+	},
+	"experience": 1,
+	"cookingtime": 50
+}

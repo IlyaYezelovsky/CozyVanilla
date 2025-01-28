@@ -1,0 +1,9 @@
+{
+	"type": "smelting",
+	"ingredient": "minecraft:red_sandstone",
+	"result": {
+		"id": "minecraft:smooth_red_sandstone"
+	},
+	"experience": 1,
+	"cookingtime": 50
+}

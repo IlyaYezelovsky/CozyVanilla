@@ -1,0 +1,9 @@
+{
+	"type": "smelting",
+	"ingredient": "minecraft:clay",
+	"result": {
+		"id": "minecraft:terracotta"
+	},
+	"experience": 3.5,
+	"cookingtime": 50
+}

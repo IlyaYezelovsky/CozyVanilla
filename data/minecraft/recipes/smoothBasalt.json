@@ -1,0 +1,9 @@
+{
+	"type": "smelting",
+	"ingredient": "minecraft:basalt",
+	"result": {
+		"id": "minecraft:smooth_basalt"
+	},
+	"experience": 1,
+	"cookingtime": 50
+}
