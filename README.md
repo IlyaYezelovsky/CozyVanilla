@@ -1,2 +1,2 @@
 # CozyVanilla
- 更好的原版Minecraft数据包
+一个让你在懒得找更多Mod的情况下玩Minecraft时更舒服的数据包
